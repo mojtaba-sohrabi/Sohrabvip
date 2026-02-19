@@ -1,4 +1,3 @@
-vless://edc05328-3e8b-4268-ac76-0af4e53fdf81@94.156.237.204:2051?security=reality&encryption=none&pbk=W4RbkpY1YsjA499rCDIGkJtBG6yhhCrpPVN7i53i0HM&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com&sid=305be87f337d1db7#[SohrabVip001]
-vless://5d42eee9-9ad2-1c26-bd91-8d5b20574faa@172.65.140.166:3389?type=raw&path=%2F#[SohrabVip002]
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@pae.com:443?security=tls&type=ws&path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&host=calm-butterfly-c2e5.wouter0.workers.dev&sni=calm-butterfly-c2e5.wouter0.workers.dev&fp=chrome&encryption=none#[SohrabVip003]
-vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@dl4.irannetfinix.shop:2083?path=%2F&security=tls&encryption=none&host=germany1.irannetfinix.shop&type=ws&sni=germany1.irannetfinix.shop#[SohrabVip004]
+vless://5d42eee9-9ad2-1c26-bd91-8d5b20574faa@172.65.140.166:3389?type=raw&path=%2F#[SohrabVip001]
+vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@dl5.irannetfinix.shop:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=france.irannetfinix.shop&fp=chrome&type=ws&sni=france.irannetfinix.shop#[SohrabVip002]
+vless://c490d6f4-0ed3-52e0-f24b-3ba51a209fa3@dl4.irannetfinix.shop:2083?path=%2F&security=tls&encryption=none&host=germany1.irannetfinix.shop&type=ws&sni=germany1.irannetfinix.shop#[SohrabVip003]
