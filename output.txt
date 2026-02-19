@@ -1,1 +1,6 @@
 vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#[SohrabVip001]
+vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#[SohrabVip001]
+vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=none&encryption=none&headerType=none&type=tcp#[SohrabVip001]
+vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=none&encryption=none&headerType=none&type=tcp#[SohrabVip001]
+vless://5ba01e3f-15a4-4740-9b84-de3892615268@66.163.116.27:20443?mode=auto&security=reality&encryption=none&pbk=uW3v6fSj2U03RO6RJE1LayMEjB3syWP2eomzkMjdMFM&fp=ios&spx=%2F&type=xhttp&sni=apple.com&sid=65a25fcaf84bc344#[SohrabVip002]
+vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=none&encryption=none&headerType=none&type=tcp#[SohrabVip001]
